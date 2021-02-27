@@ -13,7 +13,6 @@ Several tools will be used to inspect and clean the datasets. Scikit-Learn will 
 
 ## Dataset:
 [Wine Dataset](https://www.kaggle.com/rajyellow46/wine-quality)
-=======
 [Wine Quality](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/) 
 
 ## Proposal:
