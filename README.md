@@ -12,4 +12,3 @@ The dataset selected contains data about red and white wine variants of the Port
 Several tools will be used to inspect and clean the datasets. Scikit-Learn will also be used for machine learning training and testing. The data set will be uploaded to a SQL database.
 
 ## Dataset:
-[Wine Dataset](https://www.kaggle.com/rajyellow46/wine-quality)
