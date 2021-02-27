@@ -12,8 +12,8 @@ The dataset selected contains data about red and white wine variants of the Port
 Several tools will be used to inspect and clean the datasets. Scikit-Learn will also be used for machine learning training and testing. The data set will be uploaded to a SQL database.
 
 ## Dataset:
-[Wine Dataset](https://www.kaggle.com/rajyellow46/wine-quality)
-[Wine Quality](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/) 
+- [Wine Dataset](https://www.kaggle.com/rajyellow46/wine-quality)
+- [Wine Quality](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/) 
 
 ## Proposal:
 As a wine aficionado, I chose to look into wine quality and how machine learning can detect whether a selected wine can be classified as “good quality” or “bad quality” based on certain physio-chemical characteristics of the wine.
