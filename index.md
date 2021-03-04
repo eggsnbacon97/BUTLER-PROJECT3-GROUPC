@@ -12,4 +12,6 @@ Output variable (based on sensory data): quality.
 
 The dataset was described as containing ordered classes meaning there are very small amounts of very bad and very good wine and the majority are normal wines.
 
-![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/alcohol_plotly_boxplot.png)
+
+### Checking the Quality of Data & Plots
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/quality_bar.png)
