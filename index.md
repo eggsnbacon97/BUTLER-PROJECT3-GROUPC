@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Wine Prediction
 
-You can use the [editor on GitHub](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We chose to analyze wine quality and how machine learning can detect whether a selected wine can be classified as “good quality” or “bad quality” based on certain physio-chemical characteristics of the wine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Opinion on wine is very subjective, some prefer a certain kind over another based on their taste preferences, palets, and/or their preset beliefs about a certain brand, cork vs screw top or price tag. Machine learning can play a role in providing an objective result based on the composition of the wine rather than sensory result provided by a human.
+
+The dataset selected from Kaggle contains data about red and white wine variants of the Portuguese "Vinho Verde" wine. The data contains features of wine to be used for this project to predict an output of “good”or “bad” quality based on a preset scale: 0-10.
+
+Features: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol.
+
+Output variable (based on sensory data): quality.
+
+The dataset was described as containing ordered classes meaning there are very small amounts of very bad and very good wine and the majority are normal wines.
 
 ### Markdown
 
