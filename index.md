@@ -20,7 +20,7 @@ The dataset was described as containing ordered classes meaning there are very s
 ![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/alcohol_plotly_boxplot.png?raw=true)
 ![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/boxplots.png?raw=true)
 
-### Visualizations
+## Visualizations
 
 #### Histogram
 ![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/histograms.png?raw=true)
