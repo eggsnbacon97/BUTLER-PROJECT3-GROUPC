@@ -15,3 +15,21 @@ The dataset was described as containing ordered classes meaning there are very s
 
 ### Checking the Quality of Data & Plots
 ![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/quality_bar.png)
+
+### Outliers in Dataset:
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/alcohol_plotly_boxplot.png)
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/boxplots.png)
+
+### Visualizations
+
+#### Histogram
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/histograms.png)
+
+#### Correlation Model
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/correlation_model.png)
+
+#### Bar Chart
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/bar_charts.png)
+
+### Findings:
+Good quality wines have higher levels of alcohol on average, have a lower volatile acidity on average, higher levels of sulphates on average, and higher levels of residual sugar on average.
