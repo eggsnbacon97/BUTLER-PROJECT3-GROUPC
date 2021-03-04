@@ -14,19 +14,19 @@ The dataset was described as containing ordered classes meaning there are very s
 
 
 ### Checking the Quality of Data & Plots
-![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/quality_bar.png)
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/quality_bar.png?raw=true)
 
 ### Outliers in Dataset:
-![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/alcohol_plotly_boxplot.png)
-![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/boxplots.png)
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/alcohol_plotly_boxplot.png?raw=true)
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/boxplots.png?raw=true)
 
 ### Visualizations
 
 #### Histogram
-![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/histograms.png)
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/histograms.png?raw=true)
 
 #### Correlation Model
-![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/correlation_model.png)
+![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/correlation_model.png?raw=true)
 
 #### Bar Chart
 ![Image](https://github.com/eggsnbacon97/BUTLER-PROJECT3-GROUPC/blob/main/images/bar_charts.png?raw=true)
