@@ -33,3 +33,6 @@ The dataset was described as containing ordered classes meaning there are very s
 
 ### Findings:
 Good quality wines have higher levels of alcohol on average, have a lower volatile acidity on average, higher levels of sulphates on average, and higher levels of residual sugar on average.
+
+### Check out our Colab!
+https://colab.research.google.com/drive/1nBkQZLPH-ttunvwxlyRUp0bu3uFL0MrE?usp=sharing
