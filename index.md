@@ -4,7 +4,7 @@ We chose to analyze wine quality and how machine learning can detect whether a s
 
 Opinion on wine is very subjective, some prefer a certain kind over another based on their taste preferences, palets, and/or their preset beliefs about a certain brand, cork vs screw top or price tag. Machine learning can play a role in providing an objective result based on the composition of the wine rather than sensory result provided by a human.
 
-The dataset selected from Kaggle contains data about red and white wine variants of the Portuguese "Vinho Verde" wine. The data contains features of wine to be used for this project to predict an output of “good”or “bad” quality based on a preset scale: 0-10.
+The dataset selected from Kaggle contains data about red wine variants of the Portuguese "Vinho Verde" wine. The data contains features of wine to be used for this project to predict an output of “good”or “bad” quality based on a preset scale: 0-10.
 
 Features: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol.
 
